@@ -1,0 +1,9 @@
+@article{REPO-041,
+    author = "Yang, Shangshang and Tian, Ye and He, Cheng and Zhang, Xingyi and Tan, Kay Chen and Jin, Yaochu",
+    journal = "IEEE Transactions on Neural Networks and Learning Systems",
+    number = "9",
+    pages = "4861-4875",
+    title = "{A Gradient-guided Evolutionary Approach to Training Deep Neural Networks}",
+    volume = "33",
+    year = "2022"
+}
